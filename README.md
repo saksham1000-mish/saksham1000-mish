@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi, I'm Saksham Mishra</h1>
-<h3 align="center">Data Scientist and Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist and AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham1000-mish&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1000-mish" /> </p>
 
